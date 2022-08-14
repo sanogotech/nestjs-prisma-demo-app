@@ -1,8 +1,13 @@
+## Docs
+
+- https://progressivecoder.com/build-a-nestjs-prisma-rest-api/
+
 ## Installation
 
 ```bash
 $ npm install
 ```
+
 
 ## Running the app
 
